@@ -1,0 +1,19 @@
+{
+  "name": "passport-api-key",
+  "version": "1.0.0",
+  "description": "ApiKey strategy for passport",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "passport",
+    "apikey",
+    "passport-strategy",
+    "authentication",
+    "typescript"
+  ],
+  "author": "Rafa Hernández",
+  "license": "ISC"
+}
